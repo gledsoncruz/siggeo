@@ -1,0 +1,118 @@
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SID=*)(SERVICE_NAME=epdgeo_8)(CID=(PROGRAM=C:\SIGGeo\SIGGeo 2.0\SIGGeo.exe)(HOST=D8D0FCB4EC72459)(USER=sup)))(ADDRESS=(PROTOCOL=TCP)(HOST=epdgeo_8)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 09-MAI-2006 15:30:41
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SID=*)(SERVICE_NAME=epdgeo_8)(CID=(PROGRAM=C:\SIGGeo\SIGGeo 2.0\SIGGeo.exe)(HOST=D8D0FCB4EC72459)(USER=sup)))(ADDRESS=(PROTOCOL=TCP)(HOST=epdgeo_8)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 09-MAI-2006 15:33:12
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.41)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=dbgeo)(GLOBAL_NAME=dbgeo)(RDB_DATABASE=dbgeo)(CID=(PROGRAM=C:\SIGGeo\SIGGeo 2.0\SIGGeo.exe)(HOST=D8D0FCB4EC72459)(USER=sup))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 10-MAI-2006 09:13:32
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.41)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=dbgeo)(GLOBAL_NAME=dbgeo)(RDB_DATABASE=dbgeo)(CID=(PROGRAM=C:\Arquivos de programas\Borland\Delphi7\Bin\delphi32.exe)(HOST=D8D0FCB4EC72459)(USER=sup))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 10-MAI-2006 09:13:46
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.41)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=dbgeo)(GLOBAL_NAME=dbgeo)(RDB_DATABASE=dbgeo)(CID=(PROGRAM=C:\Arquivos de programas\Borland\Delphi7\Bin\delphi32.exe)(HOST=D8D0FCB4EC72459)(USER=sup))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 10-MAI-2006 09:14:05
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.41)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=dbgeo)(GLOBAL_NAME=dbgeo)(RDB_DATABASE=dbgeo)(CID=(PROGRAM=C:\SIGGeo\SIGGeo 2.0\SIGGeo.exe)(HOST=D8D0FCB4EC72459)(USER=sup))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 10-MAI-2006 09:14:26
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
